@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ServicePractice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Label_Text">Choose Item</string>
+    <string name="ItemString2">Item_1</string>
+    <string name="ItemString3">Item_2</string>
+    <string name="ItemString1">Item_3</string>
+    <string name="Song_1">http://www.mikefromchurch.com/ringtones/RINGTONES-mp3/rtf080407demo.mp3</string>
+    <string name="Song_2">http://mp3music.se/audio/files/See%20You%20Again%20Wiz%20Khalifa%20Fast%20And%20Furious%207%20See%20You%20Again%20Wiz%20Khalifa%20Fast%20And%20Furious%207%20-%201436192005.mp3</string>
+    <string name="Song_3">http://dynamic5.iserver.net/MP3/ALANWHITFIELD/RINGTONE-AlanWhitfield.mp3</string>
+    <string name="Song_1_Name">Song 1</string>
+    <string name="Song_2_Name">Song 2</string>
+    <string name="Song_3_Name">Song 3</string>
+</resources>
